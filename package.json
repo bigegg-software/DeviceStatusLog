@@ -1,0 +1,19 @@
+{
+  "name": "uwb-mesh-iot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "address": "^1.1.2",
+    "alibabacloud-iot-device-sdk": "^1.2.8",
+    "log4js": "^6.3.0",
+    "nslookup": "^1.1.1",
+    "ping": "^0.2.3",
+    "underscore": "^1.10.2"
+  }
+}
